@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#4A96C5</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
 
+    <color name="light_gray">#EEE</color>
+    <color name="very_light_gray">#FAFAFA</color>
+    <color name="normal_gray">#C0C5CA</color>
+    <color name="dark_gray">#758396</color>
+    <color name="dark_navy">#1C2D3F</color>
+    <color name="red">#E14368</color>
+    <color name="gold">#DBB260</color>
+    <color name="green">#29C266</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:ignore="PrivateResource">@color/light_gray</color>
+    <color name="transparent">@android:color/transparent</color>
 
-
-    <color name="narvikColor">#EAEADB</color>
-    <color name="blueColor">#4A96C5</color>
-    <color name="whiteColor">#FFFFFF</color>
-    <color name="adabZiaraColor">#8E8E8E</color>
-    <color name="transparent">#00000000</color>
-
-
-    <color name="cod_grey_color">#323334</color>
-    <color name="dim_gray">#707070</color>
 </resources>
