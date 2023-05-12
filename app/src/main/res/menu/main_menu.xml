@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="الرئيسية"
+        android:icon="@drawable/home"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/aboutUsFragment"
+        android:title="عن التطبيق"
+        android:icon="@drawable/information"
+        tools:ignore="HardcodedText" />
 
 </menu>
